@@ -1,2 +1,3 @@
-# newpython_repo
+# newpython
 python beginners 
+my first lesson on git
